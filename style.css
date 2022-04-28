@@ -83,10 +83,10 @@ span{
 
 }
 
-.images:hover .shape{
+.images:hover .me{
     bottom: 10px;
 }
 
-.images:hover .me{
+.images:hover .boy{
     left: 80%;
 }
