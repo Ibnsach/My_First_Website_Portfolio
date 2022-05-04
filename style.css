@@ -85,10 +85,8 @@ span{
 
 }
 
-.images:hover .me{
-    bottom: 10px;
-}
-
-.images:hover .boy{
-    left: 80%;
+img {
+    border-radius: 100%;
+    border: 1px solid black;
+    padding: 5px;
 }
